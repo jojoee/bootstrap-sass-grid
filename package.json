@@ -1,0 +1,36 @@
+{
+  "name": "bootstrap-sass-grid",
+  "version": "3.3.6",
+  "description": "Bootstrap grid and Responsive utility",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojoee/bootstrap-sass-grid.git"
+  },
+  "keywords": [
+    "twbs",
+    "bootstrap",
+    "grid",
+    "sass",
+    "css",
+    "bootstrap grid",
+    "responsive"
+  ],
+  "author": "Nathachai Thongniran <inid3a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jojoee/bootstrap-sass-grid/issues"
+  },
+  "homepage": "https://github.com/jojoee/bootstrap-sass-grid#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "prestart": "bower install && npm install",
+    "start": "gulp default"
+  }
+}
