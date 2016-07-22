@@ -2,12 +2,12 @@
 Bootstrap grid and Responsive utility at Bootstrap 3.3.6
 
 ## Getting Started
-1. Install via `npm`
+1: Install via `npm`
 ```
 1.1 Install npm
 1.2 Install package: `npm install --save bootstrap-sass-grid`
 ```
-2. Install via `bower`
+2: Install via `bower`
 ```
 2.1 Install npm
 2.2 Install bower: `npm install -g bower`
