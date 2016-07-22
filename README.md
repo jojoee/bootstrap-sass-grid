@@ -19,6 +19,19 @@ Bootstrap grid and Responsive utility at Bootstrap 3.3.6
 - Same structure as a original
 - Using `gulp` for build
 
+## Version
+- `4.0.0` is equal [bootstrap-sass@v3.3.6](https://github.com/twbs/bootstrap-sass/releases/tag/v3.3.6)
+```
+We start at `4.0.0` cause
+
+First, I'm want to make the version same as the original.
+Later, I change some text and I want to re-publish.
+So, I unpublish it from `npm`.
+
+Unfortunately, new `npm` policy,
+I can not re-publish it in the same version anymore.
+```
+
 ## Alternatives
 - [Bootstrap customize](http://getbootstrap.com/customize/)
 - [sixfootsixdesigns/Bootstrap-3-Grid-Columns-Clearing](https://github.com/sixfootsixdesigns/Bootstrap-3-Grid-Columns-Clearing)

@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-sass-grid",
-  "version": "3.3.6",
+  "version": "4.0.0",
   "description": "Bootstrap grid and Responsive utility",
   "main": "sass/bootstrap-sass-grid.scss",
   "repository": {
