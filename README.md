@@ -20,12 +20,15 @@ Bootstrap grid and Responsive utility at Bootstrap 3.3.6
 - Grid and Responsive utility
 - Same structure as a original
 - Using `gulp` for build
+- Grid example from [Bootstrap grid examples](http://getbootstrap.com/examples/grid/)
 
-## Version
-- `4.0.0` is equal [bootstrap-sass@v3.3.6](https://github.com/twbs/bootstrap-sass/releases/tag/v3.3.6)
+## Changelog
+- 4.0.1: Based on 3.3.6
+- 4.0.0: Based on 3.3.6
+- 3.3.6: Based on 3.3.6
+
+## Why the version is not the same as original
 ```
-We start at `4.0.0` cause
-
 First, I'm want to make the version same as the original.
 Later, I change some text and I want to re-publish.
 So, I unpublish it from `npm`.
