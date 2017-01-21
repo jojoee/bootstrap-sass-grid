@@ -16,6 +16,12 @@ Bootstrap grid and Responsive utility at Bootstrap 3.3.6
 2.3 Install package: `bower install --save bootstrap-sass-grid`
 ```
 
+## Getting Started (to develop this package)
+1. Install Node.js
+2. Install global: `npm install -g bower yarn`
+3. Install dependencies: `bower install && yarn`
+4. Build: `npm run build`
+
 ## Note
 - Grid and Responsive utility
 - Same structure as a original
