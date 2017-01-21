@@ -31,7 +31,7 @@
     "gulp-sourcemaps": "^1.6.0"
   },
   "scripts": {
-    "prestart": "bower install && npm install",
-    "start": "gulp"
+    "prebuild": "bower install && npm install",
+    "build": "gulp"
   }
 }
