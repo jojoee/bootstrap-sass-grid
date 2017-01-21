@@ -1,5 +1,9 @@
 # Bootstrap Sass Grid
-[![Bower Version](https://img.shields.io/bower/v/bootstrap-sass-grid.svg)](https://bower.io/search/?q=bootstrap-sass-grid) [![Npm Version](https://img.shields.io/npm/v/bootstrap-sass-grid.svg)](https://www.npmjs.com/package/bootstrap-sass-grid) [![Release Version](https://img.shields.io/github/release/jojoee/bootstrap-sass-grid.svg)](https://github.com/jojoee/bootstrap-sass-grid/releases) [![Downloads](https://img.shields.io/npm/dt/bootstrap-sass-grid.svg)](https://github.com/jojoee/bootstrap-sass-grid/archive/master.zip)
+[![Build Status](https://travis-ci.org/jojoee/bootstrap-sass-grid.svg)](https://travis-ci.org/jojoee/bootstrap-sass-grid)
+[![Bower Version](https://img.shields.io/bower/v/bootstrap-sass-grid.svg)](https://bower.io/search/?q=bootstrap-sass-grid)
+[![Npm Version](https://img.shields.io/npm/v/bootstrap-sass-grid.svg)](https://www.npmjs.com/package/bootstrap-sass-grid)
+[![Release Version](https://img.shields.io/github/release/jojoee/bootstrap-sass-grid.svg)](https://github.com/jojoee/bootstrap-sass-grid/releases)
+[![Downloads](https://img.shields.io/npm/dt/bootstrap-sass-grid.svg)](https://github.com/jojoee/bootstrap-sass-grid/archive/master.zip)
 
 Bootstrap grid and Responsive utility at Bootstrap 3.3.6
 
