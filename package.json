@@ -32,6 +32,6 @@
   },
   "scripts": {
     "prestart": "bower install && npm install",
-    "start": "gulp default"
+    "start": "gulp"
   }
 }
