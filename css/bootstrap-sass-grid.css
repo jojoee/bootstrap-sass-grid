@@ -293,6 +293,25 @@ th {
   }
 }
 
+* {
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-size: 14px;
+  color: #333333;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
