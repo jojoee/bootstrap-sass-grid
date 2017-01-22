@@ -2,7 +2,7 @@
   "name": "bootstrap-sass-grid",
   "version": "4.0.1",
   "description": "Bootstrap grid and Responsive utility",
-  "main": "sass/bootstrap-sass-grid.scss",
+  "main": "css/bootstrap-sass-grid.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jojoee/bootstrap-sass-grid.git"

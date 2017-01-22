@@ -3,7 +3,7 @@
   "homepage": "https://github.com/jojoee/bootstrap-sass-grid",
   "description": "Bootstrap grid and Responsive utility",
   "main": [
-    "sass/bootstrap-sass-grid.scss"
+    "css/bootstrap-sass-grid.css"
   ],
   "moduleType": [
     "globals"
