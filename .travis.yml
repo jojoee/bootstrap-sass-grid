@@ -13,8 +13,7 @@ branches:
     - master
 install:
   - npm install -g npm@latest
-  - npm install -g bower yarn
-  - bower install
+  - npm install -g yarn
   - yarn
 before_script:
   - npm prune
